@@ -1,3 +1,5 @@
+#Frank Spratley 
+
 import random
 import time
 
